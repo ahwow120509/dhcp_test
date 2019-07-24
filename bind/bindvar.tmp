@@ -1,0 +1,2 @@
+binddir=/home/albert/linux_lab/dhcp_test/bind
+GMAKE=make
